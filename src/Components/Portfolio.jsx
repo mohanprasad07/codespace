@@ -31,25 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Online customization store",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An online customization store offering personalized t-shirts, mugs, and photo frames with interactive 3D previews for a unique shopping experience..",
+    url: "https://github.com/mohanprasad07/online-store.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "portfolio",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A portfolio created using HTML, CSS, and JavaScript, highlighting skills, projects, and achievements in web development and UI/UX design.",
+    url: "https://mohanprasad07.github.io/portfolio/",
   },
   {
-    title: "My Resume Site",
+    title: "music recommendation with emotion analysis",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A music recommendation system that uses emotion analysis to suggest songs based on sentiment in lyrics or user input.",
+    url: "https://mohanprasad07.github.io/vibify/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "gym management system",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
